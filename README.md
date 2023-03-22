@@ -1,6 +1,4 @@
 # 💫 About Me:
-public class Dev {<br>  //PROJECT COMPLETION %<br>  int cryptoBank = 25;<br>  int decryptIo = 0;<br>  <br>  public bool Goals() {<br>    webdev.Study(frontend);<br>    sql.Study();<br>    if (isMasterDev) return true;<br>    else Goals();<br>  }<br>}
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edu.timm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardotimm) 
